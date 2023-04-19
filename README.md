@@ -9,13 +9,21 @@ Artificially  Inteligent Machine Learning  Video Techniques and Code For Online 
 
 1. Baseline Features required
     a. audio
+    
     b. sound
+    
     c. timeline
+    
     d. viewer
+    
     e. editor
+    
     f. ai features
+    
     g. ml features
+    
     10. ...
+    
     ...
 
 2. AI Features required
