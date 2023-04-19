@@ -1,5 +1,7 @@
-# ai_auto_gen_vid
-Current: YouTube Video Editor
+# artificial intelligent auto video Generator
+...ai_auto_gen_vid
+
+...Current: YouTube Video Editor
 
 
 
