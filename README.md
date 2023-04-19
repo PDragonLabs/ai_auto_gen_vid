@@ -20,8 +20,8 @@ Artificially  Inteligent Machine Learning  Video Techniques and Code For Online 
     a.
 
 7. Notes
-    --> 1.
+    1.
     
     
     
-    --> 2.
+    2.
