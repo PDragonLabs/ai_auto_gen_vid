@@ -3,6 +3,8 @@
 
 ...Current: YouTube Video Editor, heygen
 ...Can I put ai to work and create a video or film, that is the question?
+...if you are interested in helping develop this film let me know. youtube.com@pdragonlabs
+...developing this using an array of tools until, I find either a good online canidate for video making or tools to make offline.
 
 
 
@@ -61,20 +63,20 @@ setting, plot, and characters --> https://www.youtube.com/watch?v=3apt3S1DCVk&t=
     2. unreal engine
     3. blender
 
-    ...
-
-
-
 Current attributes: YouTube Editor
 
     1. ;) youtube editor, there is none
     
     2. ;) community pages need edit attribute
-    
-    3.
-    
-    ...
+   
+Current attributes: HeyGen Editor
 
+    1. ;) heygen editor, this looks promising
+    
+Current attributes: Unreal Engine
+    
+    1. ;) needs linux app
+    
 ##########################################################################################################################################################################
 ### Outiline of the Film ## if you are interested in helping develop this film let me know. youtube.com@pdragonlabs
  
