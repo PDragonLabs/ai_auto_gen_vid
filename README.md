@@ -15,7 +15,7 @@ Artificially  Inteligent Machine Learning  Video Techniques and Code For Online 
 
 setting, plot, and characters --> https://www.youtube.com/watch?v=3apt3S1DCVk&t=13s
 
-
+################# Notes for dev go here ######################################################################################################################
 
 1. Baseline Features required
     a. audio
@@ -81,9 +81,14 @@ Current attributes: Unreal Engine
     1. ;) needs linux app
     
 ##########################################################################################################################################################################
+
 ### Outiline of the Film ## if you are interested in helping develop this film let me know. youtube.com@pdragonlabs
- 
+
+##########################################################################################################################################################################
+
+
 setting, plot, and characters --> https://www.youtube.com/watch?v=3apt3S1DCVk&t=13s
+
 
 
 "THE PROTOTYPE"
@@ -119,10 +124,22 @@ As the movie reaches its peak, the team must try to outsmart the robot and stop 
 And the mystery? Alex was actually a double agent, working for the good guys all along. The team splits agree to keep the incredible technological breakthrough a secret, for now.
 
 
+
 Credits:
 
-YouTube  
-Unreal Engine 5 Metahuman Live Body and Facial Mocap
-Blender
-heygen
-mmpose 
+Sarah ... ai character
+Alex ... ai character
+Ethan ... ai character
+Mr. Johnson ... ai character
+
+YouTube ... storage and presenter 
+
+Unreal Engine 5 need linux
+Metahuman Live Body plugin ue5
+Facial Mocap plugin ue5
+
+Blender .. local
+
+heygen .. online
+
+mmpose .. pipy
