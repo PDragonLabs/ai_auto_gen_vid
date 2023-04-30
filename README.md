@@ -1,7 +1,7 @@
 # artificial intelligent auto video Generator
 ...ai_auto_gen_vid
 
-...Current: YouTube Video Editor
+...Current: YouTube Video Editor, heygen
 
 
 
@@ -116,7 +116,9 @@ And the mystery? Alex was actually a double agent, working for the good guys all
 
 
 Credits:
-         
-Unreal Engine 5 Metahuman Live Body and Facial Mocap
 
+YouTube  
+Unreal Engine 5 Metahuman Live Body and Facial Mocap
+Blender
 heygen
+mmpose 
