@@ -7,6 +7,8 @@
 
 Artificially  Inteligent Machine Learning  Video Techniques and Code For Online Offline Video effects and editing. 
 
+setting, plot, and characters --> https://www.youtube.com/watch?v=3apt3S1DCVk&t=13s
+
 1. Baseline Features required
     a. audio
     
