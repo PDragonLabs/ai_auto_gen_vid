@@ -135,10 +135,10 @@ And the mystery? Alex was actually a double agent, working for the good guys all
 
 Credits:
 
-Sarah ... ai character
-Alex ... ai character
-Ethan ... ai character
-Mr. Johnson ... ai character
+1. Sarah ... ai character
+2. Alex ... ai character
+3. Ethan ... ai character
+4. Mr. Johnson ... ai character
 
 YouTube ... storage and presenter 
 
