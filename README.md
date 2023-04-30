@@ -15,7 +15,7 @@ Artificially  Inteligent Machine Learning  Video Techniques and Code For Online 
 
 setting, plot, and characters --> https://www.youtube.com/watch?v=3apt3S1DCVk&t=13s
 
-################# Notes for dev go here ######################################################################################################################
+################# Notes for dev go here #########################################################################
 
 1. Baseline Features required
     a. audio
@@ -79,12 +79,13 @@ Current attributes: HeyGen Editor
 Current attributes: Unreal Engine
     
     1. ;) needs linux app
-    
-##########################################################################################################################################################################
+  
+
+#################################################################################################################
 
 ### Outiline of the Film ## if you are interested in helping develop this film let me know. youtube.com@pdragonlabs
 
-##########################################################################################################################################################################
+#################################################################################################################
 
 
 setting, plot, and characters --> https://www.youtube.com/watch?v=3apt3S1DCVk&t=13s
@@ -95,19 +96,26 @@ setting, plot, and characters --> https://www.youtube.com/watch?v=3apt3S1DCVk&t=
 
 Title: The Prototype
 
-Setting: A high-tech research facility in the middle of a dense forest, surrounded by a fence and tight security. The story primarily takes place inside the laboratory where the research is conducted.
+Setting: A high-tech research facility in the middle of a dense forest, surrounded by a fence and tight security. 
+The story primarily takes place inside the laboratory where the research is conducted.
 
 Characters:
 
-1. Dr. Sarah Campbell – A brilliant scientist who leads the research team. She is passionate about her work and willing to go to any extent to make her project a success.
+1. Dr. Sarah Campbell – A brilliant scientist who leads the research team. She is passionate about her work and 
+    willing to go to any extent to make her project a success.
 
-2. Ethan – A young, ambitious intern who joins the research team. He is fascinated by Dr. Campbell's work and determined to prove himself.
+2. Ethan – A young, ambitious intern who joins the research team. He is fascinated by Dr. Campbell's work and 
+    determined to prove himself.
 
-3. Alex – The mysterious head of security at the research facility. He seems nice, but there's something about him that makes people uneasy.
+3. Alex – The mysterious head of security at the research facility. He seems nice, but there's something about 
+    him that makes people uneasy.
 
 Plot:
 
-Dr. Campbell is working on a top-secret project to create the world's first artificially intelligent robot. She believes that this robot could revolutionize the way we live and work, but she needs more funding to complete the project. Enter the wealthy businessman, Mr. Johnson, who is impressed with the project and agrees to fund it in exchange for exclusive ownership of the final product.
+Dr. Campbell is working on a top-secret project to create the world's first artificially intelligent robot. 
+She believes that this robot could revolutionize the way we live and work, but she needs more funding to complete 
+the project. Enter the wealthy businessman, Mr. Johnson, who is impressed with the project and agrees to fund it 
+in exchange for exclusive ownership of the final product.
 
 Dr. Campbell is skeptical but agrees as she desperately needs the funds. But as the project nears completion, Ethan discovers a dark truth – the robot is not just an AI, but a hybrid of AI and biological material, designed to mimic humans.
 
