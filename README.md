@@ -2,6 +2,7 @@
 ...ai_auto_gen_vid
 
 ...Current: YouTube Video Editor, heygen
+...Can I put ai to work and create a video or film, that is the question?
 
 
 
@@ -56,11 +57,9 @@ setting, plot, and characters --> https://www.youtube.com/watch?v=3apt3S1DCVk&t=
     ...
 
 7. Notes
-    1.
-    
-    
-    
-    2.
+    1. mmpose
+    2. unreal engine
+    3. blender
 
     ...
 
@@ -68,9 +67,9 @@ setting, plot, and characters --> https://www.youtube.com/watch?v=3apt3S1DCVk&t=
 
 Current attributes: YouTube Editor
 
-    1.
+    1. ;) youtube editor, there is none
     
-    2.
+    2. ;) community pages need edit attribute
     
     3.
     
