@@ -2,8 +2,11 @@
 ...ai_auto_gen_vid
 
 ...Current: YouTube Video Editor, heygen
+
 ...Can I put ai to work and create a video or film, that is the question?
+
 ...if you are interested in helping develop this film let me know. youtube.com@pdragonlabs
+
 ...developing this using an array of tools until, I find either a good online canidate for video making or tools to make offline.
 
 
